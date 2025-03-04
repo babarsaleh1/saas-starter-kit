@@ -19,3 +19,4 @@ spec:
         - key: DATABASE_URL
         - key: SVIX_URL
         - key: SVIX_API_KEY
+ - key: SVIX_API_KEY.FIX
